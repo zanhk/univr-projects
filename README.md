@@ -3,9 +3,9 @@
 
 
 - C
-  - [OS] (https://github.com/zk-g/Progetto_sistemi_operativi)
+  - [OS](https://github.com/zk-g/Progetto_sistemi_operativi)
 - Java
   - Ecommerce app - TBR soon
   - 
 - Game Development
-  - [Untitled game] ()
+  - [Untitled game]()
