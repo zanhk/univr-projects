@@ -10,5 +10,6 @@
 - 
 #### Game Development
 - [Untitled game]()
-#### Assembly
-- [FSM]()
+#### Computer Architecture
+- [ASM](https://github.com/zk-g/univr-asm)
+- [SIS](https://github.com/zk-g/univr-sis)
