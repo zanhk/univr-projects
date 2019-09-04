@@ -8,8 +8,11 @@
 #### Java
 - Ecommerce app - TBR soon
 - 
+#### C++
+- [Untitled game]()
 #### Game Development
 - [Untitled game]()
+- [Computer graphics]()
 #### Computer Architecture
 - [ASM](https://github.com/zk-g/univr-asm)
 - [SIS](https://github.com/zk-g/univr-sis)
