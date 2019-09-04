@@ -12,7 +12,7 @@
 - [Cyberphysics](https://github.com/zk-g/univr-cyberphysics)
 #### Game Development
 - [Untitled game]()
-- [Computer graphics]()
+- [Computer graphics](https://github.com/zk-g/univr-computer-graphic)
 #### Computer Architecture
 - [ASM](https://github.com/zk-g/univr-asm)
 - [SIS](https://github.com/zk-g/univr-sis)
