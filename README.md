@@ -9,7 +9,7 @@
 
 #### Java
 
-- [Java exercises]https://github.com/zk-g/univr-java
+- [Java exercises](https://github.com/zk-g/univr-java)
 
 #### C++
 
