@@ -4,15 +4,23 @@
 
 
 #### C
+
 - [OS](https://github.com/zk-g/Progetto_sistemi_operativi)
+
 #### Java
-- Ecommerce app - TBR soon
-- 
+
+- [Java exercises]https://github.com/zk-g/univr-java
+
 #### C++
+
 - [Cyberphysics](https://github.com/zk-g/univr-cyberphysics)
+
 #### Game Development
+
 - [Untitled game]()
 - [Computer graphics](https://github.com/zk-g/univr-computer-graphic)
+
 #### Computer Architecture
+
 - [ASM](https://github.com/zk-g/univr-asm)
 - [SIS](https://github.com/zk-g/univr-sis)
